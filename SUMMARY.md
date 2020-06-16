@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Настройка среды разработки](01-setting-up-development/README.md)
 
