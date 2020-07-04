@@ -8,4 +8,5 @@
   * [Модифицирование приложения]()
 * [6. Начало работы с раскладками](06-getting-started-with-layouts/README.md)
   * [Раскладки (Layouts)](06-getting-started-with-layouts/exploring-layouts.md)
+  * [Создание проекта](06-getting-started-with-layouts/creating-exploring-layouts.md)
 
